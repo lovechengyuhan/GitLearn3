@@ -1,2 +1,2 @@
 config test
-blue
+orange
