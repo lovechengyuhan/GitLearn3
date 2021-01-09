@@ -1,1 +1,2 @@
-add test
+config test
+red
