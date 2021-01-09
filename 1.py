@@ -1,4 +1,4 @@
 config test
-orange
+green
 
 reset test1
